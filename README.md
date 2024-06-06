@@ -5,7 +5,11 @@
 [![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaabrieloliveiraa)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gaabrieloliveiraa&show_icons=true&theme=merko)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaabrieloliveiraa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
 
 ## Tecnologias que eu uso no meu dia
 
