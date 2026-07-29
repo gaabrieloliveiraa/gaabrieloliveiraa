@@ -5,8 +5,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaabrieloliveiraa&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=gaabrieloliveiraa&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" height="150" alt="GitHub Stats"/>
 </div>
+
+
 
 ---
 
