@@ -4,17 +4,21 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaabrieloliveiraa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
 
+<!--
+  Depois de fazer o deploy da sua própria instância na Vercel (com o PAT_1 configurado),
+  troque "github-readme-stats.vercel.app" pelo endereço do seu projeto, ex.:
+  https://gabriel-readme-stats.vercel.app/api?...
+  Só assim o count_private=true passa a contar seus repositórios privados.
+-->
 <div align="left">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=gaabrieloliveiraa&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gaabrieloliveiraa&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" height="150" alt="GitHub Stats"/>
 </div>
-
-
 
 ---
 
 ## 🚀 Tecnologias que eu uso no dia a dia
 
-<div style="display: inline_block"><br/>
+<div align="left">
 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
