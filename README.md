@@ -12,7 +12,7 @@ Analista de desenvolvimento de sistemas · Paulo Afonso, BA
 Desenvolvo sistemas de gestão para áreas como educação, atendimento, help desk e contratos, com backend em **Java e Spring Boot** e front-end em **React e TypeScript**, usando **PostgreSQL** como banco de dados e metodologias ágeis no dia a dia.
 
 <div align="left">
-  <img src="stats.svg" width="360" alt="Estatísticas do GitHub"/>
+  <img src="stats.svg" alt="Estatísticas do GitHub"/>
 </div>
 
 ---
