@@ -1,4 +1,4 @@
-#Olá! Eu sou o Gabriel Oliveira
+Olá! Eu sou o Gabriel Oliveira
 
 Analista de desenvolvimento de sistemas · Paulo Afonso, BA
 
