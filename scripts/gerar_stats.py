@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gera stats.svg (cartoes de estatisticas) com os numeros reais da conta, inclusive repositorios privados.
+"""Gera estatisticas.svg (cartoes de estatisticas) com os numeros reais da conta, inclusive repositorios privados.
 
 Uso: gh auth login (conta dona do perfil) e depois: python3 scripts/gerar_stats.py
 Na automacao (GitHub Action) o gh le o token da variavel GH_TOKEN.
@@ -64,4 +64,4 @@ def svg(cartoes):
 
 
 if __name__ == "__main__":
-    Path(__file__).resolve().parent.parent.joinpath("stats.svg").write_text(svg(coletar()), encoding="utf-8")
+    Path(__file__).resolve().parent.parent.joinpath("estatisticas.svg").write_text(svg(coletar()), encoding="utf-8")
